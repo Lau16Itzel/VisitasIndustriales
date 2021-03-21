@@ -1,7 +1,7 @@
 # VisitasIndustriales
 Proyecto de Seguridad
 ## Integrantes 
-*[Deysi Geraldine León Cabrera](https://github.com/geraldineleon)
+* [Deysi Geraldine León Cabrera](https://github.com/geraldineleon)
 * [Laura Itzel Vargas Salas](https://github.com/Lau16Itzel)
 * Yaracel Lechuga Vargas.
 <br>
