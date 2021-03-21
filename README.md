@@ -3,7 +3,7 @@ Proyecto de Seguridad
 ## Integrantes 
 * [Deysi Geraldine León Cabrera](https://github.com/geraldineleon)
 * [Laura Itzel Vargas Salas](https://github.com/Lau16Itzel)
-* Yaracel Lechuga Vargas  (https://github.com/Yaracel0599)
+* Yaracel Lechuga Vargas(https://github.com/Yaracel0599)
 <br>
 
 ## Objetivo del proyecto
