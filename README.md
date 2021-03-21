@@ -5,6 +5,7 @@ Proyecto de Seguridad
 * [Laura Itzel Vargas Salas](https://github.com/Lau16Itzel)
 * Yaracel Lechuga Vargas.
 <br>
+
 ## Objetivo del proyecto
 Automatizar el registro para las salidas industriales mediante la implementación de un sitio web donde se llenara la información correspondiente y comprobantes de pago. 
 <br>
@@ -24,6 +25,7 @@ Automatizar el registro para las salidas industriales mediante la implementació
 * CSS. Para complementar los estilos.
 
 <strong>BackEnd:</strong>
+
 *NodeJS. Para la parte lógica del sistema.
 
 <strong>Base de Datos:</strong>
