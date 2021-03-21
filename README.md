@@ -8,9 +8,11 @@ Proyecto de Seguridad
 ## Objetivo del proyecto
 Automatizar el registro para las salidas industriales mediante la implementación de un sitio web donde se llenara la información correspondiente y comprobantes de pago. 
 <br>
+
 ## Tipos de usuarios
 * Usuario Administrador: Encargado de gestionar y manipular la información de todo el sistema.
 * Usuario Básico: El alumno que registra su información.
+
 ## Funcionalidades
 * Regitro de información
 * Subir archivos
