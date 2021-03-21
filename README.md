@@ -1,4 +1,4 @@
-# VisitasIndustriales
+# SARSI(Sistema Automatizado para Registro de Salidas Industriales)
 Proyecto de Seguridad
 ## Integrantes 
 * [Deysi Geraldine León Cabrera](https://github.com/geraldineleon)
