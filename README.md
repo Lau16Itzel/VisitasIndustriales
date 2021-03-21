@@ -26,7 +26,7 @@ Automatizar el registro para las salidas industriales mediante la implementació
 
 <strong>BackEnd:</strong>
 
-*NodeJS. Para la parte lógica del sistema.
+* NodeJS. Para la parte lógica del sistema.
 
 <strong>Base de Datos:</strong>
 
