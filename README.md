@@ -33,10 +33,10 @@ Automatizar el registro para las salidas industriales mediante la implementació
 
 <hr>
 
-Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicaciones, en equipo
+Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicaciones, en equipo.
 
 
-##Wireframe
+## Wireframe
 
 ![LOGIN](https://user-images.githubusercontent.com/79295089/111922814-ab940f00-8a61-11eb-97a2-159616c918ad.png)
 
