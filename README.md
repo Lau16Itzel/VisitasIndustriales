@@ -40,6 +40,7 @@ Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicac
 ## Wireframe
 
 * Inició de sesión 
+
 ![LOGIN](https://user-images.githubusercontent.com/79295089/111922814-ab940f00-8a61-11eb-97a2-159616c918ad.png)
 
 * Inicio
