@@ -1,2 +1,34 @@
 # VisitasIndustriales
 Proyecto de Seguridad
+## Integrantes 
+*[Deysi Geraldine León Cabrera](https://github.com/geraldineleon)
+* [Laura Itzel Vargas Salas](https://github.com/Lau16Itzel)
+* Yaracel Lechuga Vargas.
+<br>
+## Objetivo del proyecto
+Automatizar el registro para las salidas industriales mediante la implementación de un sitio web donde se llenara la información correspondiente y comprobantes de pago. 
+<br>
+## Tipos de usuarios
+* Usuario Administrador: Encargado de gestionar y manipular la información de todo el sistema.
+* Usuario Básico: El alumno que registra su información.
+## Funcionalidades
+* Regitro de información
+* Subir archivos
+* Autenticacion con toquen email
+## Entorno de desarrollo
+<strong>FrontEnd:</strong>
+* Angular Vs. Se utilizará este framework para la creación de un sistema basado en MVC (Modelo, Vista, Controlador).
+* Bootstrap vs4.3.1.: Para estilizar el sitio implentaremos este framework .
+* CSS. Para complementar los estilos.
+
+<strong>BackEnd:</strong>
+*NodeJS. Para la parte lógica del sistema.
+
+<strong>Base de Datos:</strong>
+
+* MySQL vs8.0: Ocuparemos un gestor de base de datos relacionales.
+
+<hr>
+
+Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicaciones, en equipo
+
