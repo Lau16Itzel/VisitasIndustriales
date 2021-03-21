@@ -18,6 +18,7 @@ Automatizar el registro para las salidas industriales mediante la implementació
 * Regitro de información
 * Subir archivos
 * Autenticacion con toquen email
+*El sistema debe de tener un respaldo por seguridad
 ## Entorno de desarrollo
 <strong>FrontEnd:</strong>
 * Angular Vs. Se utilizará este framework para la creación de un sistema basado en MVC (Modelo, Vista, Controlador).
