@@ -5,7 +5,7 @@ _Sistema encargado de gestionar las salidas industriales._
 
 * [Deysi Geraldine León Cabrera](https://github.com/geraldineleon)
 * [Laura Itzel Vargas Salas](https://github.com/Lau16Itzel)
-* Yaracel Lechuga Vargas.
+* [Yaracel Lechuga Vargas](https://github.com/yaracel0599)jj
 <br>
 
 ## Objetivo del proyecto
