@@ -33,18 +33,18 @@ y comprobantes de pago.
 
 * CSS. Para complementar los estilos.
 
-##Wireframe
+## Wireframe
 
-*LOGIN
+* LOGIN
 ![LOGIN](https://user-images.githubusercontent.com/79295089/111938311-45be7c00-8a8f-11eb-94a9-eac5bdff7b58.png)
 
-*INICIO
+* INICIO
 ![INICIO](https://user-images.githubusercontent.com/79295089/111938352-5cfd6980-8a8f-11eb-8aca-7a38aa6b1f8e.png)
 
-*FORMULARIO
+* FORMULARIO
 ![FORMULARIO](https://user-images.githubusercontent.com/79295089/111938381-70103980-8a8f-11eb-9e39-2ab4aee3139e.png)
 
-*CONÓCENOS
+* CONÓCENOS
 ![CONOCENOS](https://user-images.githubusercontent.com/79295089/111938408-7ef6ec00-8a8f-11eb-99b4-767954855969.png)
 
 <strong>BackEnd:</strong>
