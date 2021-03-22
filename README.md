@@ -1,5 +1,5 @@
-# VisitasIndustriales
-Proyecto de Seguridad
+# SARSI(Sistema Automatizado para Registro de Salidas Industriales)
+_Sistema encargado de gestionar las salidas industriales._
 
 ## Integrantes
 
