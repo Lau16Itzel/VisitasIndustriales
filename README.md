@@ -41,8 +41,9 @@ y comprobantes de pago.
 * INICIO
 ![INICIO](https://user-images.githubusercontent.com/79295089/111938352-5cfd6980-8a8f-11eb-8aca-7a38aa6b1f8e.png)
 
-* FORMULARIO 
+<p>FORMULARIO</p>
 Se registrará toda la información acerca del alumno y se seleccionará la salida industrial que desea (solo aparecerán las que sean validas para el usuario).
+
 ![FORMULARIO](https://user-images.githubusercontent.com/79295089/111938381-70103980-8a8f-11eb-9e39-2ab4aee3139e.png)
 
 * CONÓCENOS
@@ -61,4 +62,3 @@ Se registrará toda la información acerca del alumno y se seleccionará la sali
 <hr>
 
 Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicaciones, en equipo
-
