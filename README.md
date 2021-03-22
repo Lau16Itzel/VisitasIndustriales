@@ -69,3 +69,6 @@ Universidad.
 ## Base de datos
 
 
+* Actualizaciones del proyectó los miercoles, hora 21:00
+
+
