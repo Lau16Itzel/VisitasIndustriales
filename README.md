@@ -33,11 +33,23 @@ y comprobantes de pago.
 
 * CSS. Para complementar los estilos.
 
+##Wireframe
+*LOGIN
+![LOGIN](https://user-images.githubusercontent.com/79295089/111938311-45be7c00-8a8f-11eb-94a9-eac5bdff7b58.png)
+*INICIO
+![INICIO](https://user-images.githubusercontent.com/79295089/111938352-5cfd6980-8a8f-11eb-8aca-7a38aa6b1f8e.png)
+*FORMULARIO
+![FORMULARIO](https://user-images.githubusercontent.com/79295089/111938381-70103980-8a8f-11eb-9e39-2ab4aee3139e.png)
+*CONÓCENOS
+![CONOCENOS](https://user-images.githubusercontent.com/79295089/111938408-7ef6ec00-8a8f-11eb-99b4-767954855969.png)
+
 <strong>BackEnd:</strong>
 
 * NodeJS. Para la parte lógica del sistema.
 
 <strong>Base de Datos:</strong>
+![Base de datos-visitas industriales](https://user-images.githubusercontent.com/79295089/111938439-903ff880-8a8f-11eb-8a55-bb63d9e04cd0.jpeg)
+
 
 * MySQL vs8.0: Ocuparemos un gestor de base de datos relacionales.
 
