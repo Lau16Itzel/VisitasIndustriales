@@ -68,7 +68,5 @@ Universidad.
 
 ## Base de datos
 
-
-* Actualizaciones del proyectó los miercoles, hora 21:00
-
+![Base de datos-visitas industriales](https://user-images.githubusercontent.com/79295089/111925788-e00ec780-8a6f-11eb-9ff7-310317c8285b.jpeg)
 
